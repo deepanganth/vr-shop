@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  height: 100%;
+}
+
+.product-canva canvas{
+  background: url(./assets/bg.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.btns {
+  position: absolute;
+  bottom: 5rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  z-index: 10;
+}
+
+.btn {
+  overflow: hidden;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 10px;
+  border-style: none;
+  background-color: rgb(113, 113, 113);
+}
+
+.btn img {
+  width: 20rem;
+  height: 20rem;
+}
+
+.caption {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 5rem;
+  position: absolute;
+  top: 2rem;
+}
+
+.caption p {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.style1 p {
+  background: linear-gradient(to right, #f051d6 0%, #049e9e 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.style2 p {
+  background: linear-gradient(to right, #2969ff 0%, #6b0059 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.style3 p {
+  font-style: italic;
+  background: linear-gradient(to bottom, #400040 0%, #ae00c8 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.style4 p {
+  background: linear-gradient(to bottom, #9e9300 0%, #000000 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.style5 p {
+  background: linear-gradient(to bottom, #00d9e4 0%, #f70094 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.style6 p {
+  background: linear-gradient(to bottom, #0099ff 0%, #818300 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.style7 p {
+  background: linear-gradient(to bottom, #9802b6 0%, #9a029c 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.style8 p {
+  background: linear-gradient(to bottom, #413f01 0%, #4d5500 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.return-btn{
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+}
+.return-btn img{
+  width: 3rem;
+  height: 3rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .caption p {
+    margin-top: 1rem;
+    font-size: 2.2rem;
+  }
+  .btns {
+    overflow-x: scroll;
+  }
+  .btn {
+    width: 2rem;
+    height: 2rem;
+  }
+  .return-btn{
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .return-btn img{
+    width: 3rem;
+    height: 3rem;
+  }
+}
