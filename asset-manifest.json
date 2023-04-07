@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/vr-shop/static/css/main.094ca416.css",
+    "main.js": "/vr-shop/static/js/main.2a836035.js",
+    "static/js/787.e4658d32.chunk.js": "/vr-shop/static/js/787.e4658d32.chunk.js",
+    "static/media/ptrn6.jpg": "/vr-shop/static/media/ptrn6.8a1554d0014c3618f580.jpg",
+    "static/media/ptrn5.png": "/vr-shop/static/media/ptrn5.f388a3308f067b23c73a.png",
+    "static/media/ptrn1.webp": "/vr-shop/static/media/ptrn1.985ca1299012a96030c1.webp",
+    "static/media/ptrn2.jpg": "/vr-shop/static/media/ptrn2.b217e4547983ec53841b.jpg",
+    "static/media/ptnn10.jpeg": "/vr-shop/static/media/ptnn10.4632262f8bacc0f3bd4f.jpeg",
+    "static/media/ptrn8.jpg": "/vr-shop/static/media/ptrn8.86afead2059a5e0bd0b6.jpg",
+    "static/media/ptrn3.webp": "/vr-shop/static/media/ptrn3.ffe7f94aa5746f0f6290.webp",
+    "static/media/bg.jpeg": "/vr-shop/static/media/bg.ca2e3769a3499579d1fc.jpeg",
+    "static/media/ptrn7.jpg": "/vr-shop/static/media/ptrn7.e6d972148855182fcb3b.jpg",
+    "static/media/home-shirt.glb": "/vr-shop/static/media/home-shirt.ae6f2593644bf85684a4.glb",
+    "static/media/ptrn4.webp": "/vr-shop/static/media/ptrn4.76425c513b67035c7cd3.webp",
+    "static/media/home-bg.jpg": "/vr-shop/static/media/home-bg.199d0b73a84a773ce6be.jpg",
+    "static/media/logo.png": "/vr-shop/static/media/logo.cb06683f1de171bbbfea.png",
+    "index.html": "/vr-shop/index.html",
+    "main.094ca416.css.map": "/vr-shop/static/css/main.094ca416.css.map",
+    "main.2a836035.js.map": "/vr-shop/static/js/main.2a836035.js.map",
+    "787.e4658d32.chunk.js.map": "/vr-shop/static/js/787.e4658d32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.094ca416.css",
+    "static/js/main.2a836035.js"
+  ]
+}
