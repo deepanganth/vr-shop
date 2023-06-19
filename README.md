@@ -10,6 +10,6 @@ Users can be able to access detailed information about the products, such as pri
 
 ![image](https://github.com/deepanganth/vr-shop/assets/83934355/e3515a8e-c7ac-4c43-a0b9-0d8a2c53c0cd)
 
-
+![image](https://github.com/deepanganth/vr-shop/assets/83934355/26d911fe-bcc4-4549-be8d-3f77ffc20312)
 
 Live Demo!.......https://deepanganth.github.io/vr-shop/
